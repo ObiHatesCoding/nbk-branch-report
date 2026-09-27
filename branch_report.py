@@ -1,4 +1,4 @@
-"""NBK Branch Daily Happy Taffy Report.
+"""NBK Weekly Branch Daily Happy Taffy Report.
 
 Reads the branch database, finds yesterday's large cash withdrawals, and prints a
 report a branch manager could act on.
